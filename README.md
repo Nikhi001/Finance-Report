@@ -53,5 +53,3 @@ This project provides a comprehensive analysis and visualization of bank loan da
 ## Tools and Technologies Used
 - **Data Visualization**: use Excel visually appealing dashboards.
 
-
----
